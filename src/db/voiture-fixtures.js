@@ -68,7 +68,7 @@ const voiture = [
         name: "Mazda 626",
         modele: "Mazda",
         type: ["Berline", "4x4"],
-        price: 72000,
+        price: 4000,
         createdAt: new Date()
     },
     {
@@ -76,7 +76,7 @@ const voiture = [
         name: "toyota avencis",
         modele: "toyota",
         type: ["Berline", "4x4"],
-        price: 24000,
+        price: 4500,
         createdAt: new Date()
     }
     
